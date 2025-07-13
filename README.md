@@ -2,8 +2,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🚀 I have worked on the this projects [HealthSync](https://github.com/sumit1004/HealthSync-V2)
-  
-- 🚀 I have worked on the this projects [Disaster Management](https://github.com/sumit1004/DisasterRelief-FinalVerson)
 
 - 🚀 I have worked on the this projects [Tournament Management](https://github.com/sumit1004/Tournamentmanagement.infinityesports)
   
