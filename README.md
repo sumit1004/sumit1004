@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;AI+Product+Builder;Startup+Founder+Mindset;Building+Products+That+Scale;Turning+Ideas+Into+Real+Systems" alt="Typing SVG" />
 
 <p align="center">
-  <img src="assets/banner.png" alt="Banner" width="80%"  height="450px"/>
+  <img src="assets/banner1.png" alt="Banner" width="80%"  height="450px"/>
 </p>
 
 ---
