@@ -5,13 +5,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;AI+Product+Builder;Startup+Founder+Mindset;Building+Products+That+Scale;Turning+Ideas+Into+Real+Systems" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,25:00f7ff,50:6e00ff,75:ff00ea,100:0f0f0f&height=250&section=header&text=SUMIT&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
-</div>
+<p align="center">
+  <img src="assets/banner.png" alt="Banner" width="100%" />
+</p>
 
 ---
 
-<div align="center">
+
 
 #  ABOUT ME
 
@@ -161,6 +161,6 @@ Tech Philosophy:
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,25:00f7ff,50:6e00ff,75:ff00ea,100:0f0f0f&height=120&section=footer"/>
+
 
 </div>
